@@ -10,6 +10,10 @@ html {
   background-size: cover;
 }
 
+footer {
+	padding: 1rem 1rem;
+}
+
 h1 {
 	font-size: 3rem;
 	color: #c2c0c5;
@@ -19,6 +23,16 @@ hr {
 	border-color: #F05F44;
 	border-width: 3px;
 	max-width: 65px;
+}
+
+h5 {
+	font-size: 1rem;
+	color: #c2c0c5;
+}
+
+h6 {
+	font-size: 1rem;
+	color: #c2c0c5;
 }
 
 .buffer {
